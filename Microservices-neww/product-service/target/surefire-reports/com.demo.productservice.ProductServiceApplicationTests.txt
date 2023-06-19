@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.561 s <<< FAILURE! - in com.demo.productservice.ProductServiceApplicationTests
+com.demo.productservice.ProductServiceApplicationTests  Time elapsed: 0.56 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at com.demo.productservice.ProductServiceApplicationTests.<clinit>(ProductServiceApplicationTests.java:29)
+
